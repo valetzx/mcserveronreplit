@@ -1,6 +1,9 @@
 # Minecraft Server - Setup Guide
 > Warning: Nix support on Replit is still under heavy development. Works best if the repl is boosted.
 
+# Bilibili Video 教程视频：
+https://www.bilibili.com/video/BV1M94y1o72P
+
 You've just created a personal Minecraft Server. To ensure that everyone can partake, this guide is divided into 2 parts. However, you can use this as the starting point for *ANY MINECRAFT SERVER*
 
 If you're a beginner player, looking for a Minecraft server (no mods) to play on with just a couple of your friends, I suggest following the `Basic Server` instructions.
